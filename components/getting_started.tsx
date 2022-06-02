@@ -4,6 +4,10 @@ export default function GettingStarted() {
             <div className="lg:grid lg:grid-cols-3 lg:gap-8">
                 <div>
                     <h2 className="text-3xl font-extrabold text-gray-900">Getting Started</h2>
+                    <p className="mt-4 text-lg text-gray-500">
+                        Draw something cool on your github contribution and fake your activity at the same
+                        time. Win-win situation.
+                    </p>
                 </div>
                 <div className="mt-12 lg:mt-0 lg:col-span-2">
                     <dl className="space-y-12">
